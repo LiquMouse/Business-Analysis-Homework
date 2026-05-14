@@ -18,4 +18,4 @@ OUTPUT="商务数据分析理论与方法_${STUDENT_ID}_${NAME}_实验${N}.html"
     --to html \
     --TagRemovePreprocessor.remove_input_tags='hide-input' \
     --output "$OUTPUT" \
-    "$DIR/exp${N}.ipynb"
+    "$DIR/exp/exp${N}.ipynb"
