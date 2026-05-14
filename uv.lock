@@ -155,7 +155,7 @@ css = [
 ]
 
 [[package]]
-name = "business-stat"
+name = "business-analysis"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
