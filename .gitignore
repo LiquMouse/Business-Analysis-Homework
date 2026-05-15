@@ -3,4 +3,6 @@
 *实验*
 student_info.py
 __pycache__/
-user_action.csv
+*.csv
+*.xlsx
+*.pdf
